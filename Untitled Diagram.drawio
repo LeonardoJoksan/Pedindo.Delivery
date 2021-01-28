@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T21:45:58.206Z" agent="5.0 (X11)" etag="3ZBbbvNw6mmtYAGuwMfR" version="14.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T22:54:19.068Z" agent="5.0 (X11)" etag="cSnyUO45LQdRcz5rS2zn" version="14.2.7" type="github">
   <diagram id="D_xxA8OrmMkoxaGB_pkV" name="Page-1">
-    <mxGraphModel dx="10418" dy="4864" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4289" dy="1679" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -481,7 +481,7 @@
         <mxCell id="WwE-XTZqTUs1PnppBZ73-174" value="PK" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="WwE-XTZqTUs1PnppBZ73-173" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="WwE-XTZqTUs1PnppBZ73-175" value="deliveryman_id int NOT NULL " style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" parent="WwE-XTZqTUs1PnppBZ73-173" vertex="1">
+        <mxCell id="WwE-XTZqTUs1PnppBZ73-175" value="user_provider_id int NOT NULL" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=1;" parent="WwE-XTZqTUs1PnppBZ73-173" vertex="1">
           <mxGeometry x="30" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WwE-XTZqTUs1PnppBZ73-176" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="WwE-XTZqTUs1PnppBZ73-172" vertex="1">
