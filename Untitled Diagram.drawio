@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-28T19:16:05.075Z" agent="5.0 (X11)" etag="wnfXWbhGZ3LrXRtkbnx-" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-28T19:18:22.275Z" agent="5.0 (X11)" etag="1k9jUfsiSUv6f4YT88bj" version="14.2.6" type="github">
   <diagram id="D_xxA8OrmMkoxaGB_pkV" name="Page-1">
-    <mxGraphModel dx="8625" dy="4915" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5184" dy="3247" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,7 +209,7 @@
           <mxGeometry x="30" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WwE-XTZqTUs1PnppBZ73-66" value="shop_user_deliveryman" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="-1230" y="-1190" width="250" height="310" as="geometry" />
+          <mxGeometry x="-996" y="-640" width="250" height="310" as="geometry" />
         </mxCell>
         <mxCell id="WwE-XTZqTUs1PnppBZ73-67" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="WwE-XTZqTUs1PnppBZ73-66" vertex="1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -723,10 +723,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1360" y="-955" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1250" y="-1115" />
-              <mxPoint x="-1250" y="-860" />
-              <mxPoint x="-1110" y="-860" />
-              <mxPoint x="-1110" y="-595" />
+              <mxPoint x="-1013" y="-565" />
+              <mxPoint x="-1013" y="-595" />
             </Array>
           </mxGeometry>
         </mxCell>
